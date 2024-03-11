@@ -29,6 +29,7 @@ This project focuses on predicting house prices in Boston using a machine learni
 
 ![](https://github.com/Jinendra-Gambhir/ML-Supervised_Learning-Regression/blob/main/heatmap.png)
 
+![](https://github.com/Jinendra-Gambhir/ML-Supervised_Learning-Regression/blob/main/Scatter_plot.png)
 
 ## Tech Stack
 
